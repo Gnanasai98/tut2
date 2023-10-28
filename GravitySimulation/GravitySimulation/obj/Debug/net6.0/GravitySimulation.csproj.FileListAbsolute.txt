@@ -1,0 +1,15 @@
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\bin\Debug\net6.0\GravitySimulation.exe
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\bin\Debug\net6.0\GravitySimulation.deps.json
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\bin\Debug\net6.0\GravitySimulation.runtimeconfig.json
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\bin\Debug\net6.0\GravitySimulation.dll
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\bin\Debug\net6.0\GravitySimulation.pdb
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.csproj.AssemblyReference.cache
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.AssemblyInfoInputs.cache
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.AssemblyInfo.cs
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.csproj.CoreCompileInputs.cache
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.dll
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\refint\GravitySimulation.dll
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.pdb
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\GravitySimulation.genruntimeconfig.cache
+C:\sai\sai\gamedevelopment\C#\GravitySimulation\GravitySimulation\obj\Debug\net6.0\ref\GravitySimulation.dll
