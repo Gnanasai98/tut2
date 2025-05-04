@@ -1,0 +1,17 @@
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\bin\Debug\net6.0-windows\ArithmeticProgression.exe
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\bin\Debug\net6.0-windows\ArithmeticProgression.deps.json
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\bin\Debug\net6.0-windows\ArithmeticProgression.runtimeconfig.json
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\bin\Debug\net6.0-windows\ArithmeticProgression.dll
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\bin\Debug\net6.0-windows\ArithmeticProgression.pdb
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.csproj.AssemblyReference.cache
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.Form1.resources
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.csproj.GenerateResource.cache
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.GeneratedMSBuildEditorConfig.editorconfig
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.AssemblyInfoInputs.cache
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.AssemblyInfo.cs
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.csproj.CoreCompileInputs.cache
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.dll
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\refint\ArithmeticProgression.dll
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.pdb
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ArithmeticProgression.genruntimeconfig.cache
+C:\sai\sai\gamedevelopment\C#\AP\ArithmeticProgression\obj\Debug\net6.0-windows\ref\ArithmeticProgression.dll
